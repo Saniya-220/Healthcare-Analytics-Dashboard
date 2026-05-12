@@ -53,26 +53,12 @@ This project is an end-to-end Healthcare Analytics solution built using Power BI
 
 ![Dashboard Preview](healthcare_dashboard.png)
 
----
-
-## Repository Structure
-
-```bash
-Healthcare-Analytics-Dashboard/
-│
-├── PowerBI/
-├── SQL/
-├── Python/
-├── Dataset/
-├── Images/
-└── README.md
-```
 
 ---
 
 ## Files Included
 - Power BI Dashboard (.pbix)
 - SQL Queries (.sql)
-- Python Analysis Script (.ipynb)
+- Jupyter Notebook Analysis (.ipynb)
 - Dataset (.csv)
 - Dashboard Screenshot (.png)
