@@ -51,7 +51,7 @@ This project is an end-to-end Healthcare Analytics solution built using Power BI
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Preview](healthcare_dashboard.png)
 
 ---
 
